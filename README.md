@@ -2,7 +2,7 @@
 ## Contents 
 
 #### 1. Logo
-a. PSD file
-b. PNG compressed logo
+- PSD file
+- PNG compressed logo
 
 #### 2. Favicon
